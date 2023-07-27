@@ -4,7 +4,7 @@
 > 📎 <a href='http://susumarket.shop/'>배포 URL</a> <br/>
 > 
 > <br/>
-> 이메일 로그인 테스트 계정
+> 이메일 로그인 테스트 계정.
 > 
 >  - ID : `susu@market.com`
 >  - Password : `susu2023`
