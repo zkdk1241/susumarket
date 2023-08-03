@@ -1,4 +1,4 @@
-# <span id='top'>수수마켓.<img src = "![susu](https://github.com/24-gitTest/demo-repository/assets/99867931/238c60c2-72d5-43ba-a52a-d2fb0513b7f3)"/></span>
+# <span id='top'>수수마켓<img src = "![susu](https://github.com/24-gitTest/demo-repository/assets/99867931/238c60c2-72d5-43ba-a52a-d2fb0513b7f3)"/></span>
 <img src="https://user-images.githubusercontent.com/87430624/249447353-0b92eb21-66fe-45c2-a542-24cb614e2962.png" width="1000" />
 
 > 📎 <a href='http://susumarket.shop/'>배포 URL</a> <br/>
